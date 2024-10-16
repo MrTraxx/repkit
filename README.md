@@ -1,7 +1,3 @@
-Natürlich! Hier ist ein Beispiel für eine **README.md**-Datei, die du für dein Reparaturkit-Skript verwenden kannst:
-
----
-
 # Reparaturkit-Skript für FiveM (ESX Framework)
 
 ## Beschreibung
